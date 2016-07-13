@@ -1,0 +1,23 @@
+# Apache_Hadoop---Session-3_2
+ HDFS Internals Assignment 2
+
+
+1.Minimum number of reducer  that can be set is 1 (B)
+
+2.Who calls the submit method on jobs? Client (B)
+
+3.Once the Namespace are done, these are periodically updated to Secondary NameNode(B)
+
+4.Full form of YARN? Yet Another Resource Negotiator  (B)
+
+5.For every  3 seconds , a name node receives heart beats from data nodes (c)
+
+6	Master layer in Hadoop architecture contains: Name node and resource manager (A)
+
+7	For every job submitted to resource manager , it returns an acknowledgement in the form of  Application(A)
+
+8.A container is supervised by:  node manager (A)
+
+9.Who manages the file system, Namespace? NameNode (A)
+
+10.Metadata information in the Namenode is present in which file? fsImage(A)
